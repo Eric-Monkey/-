@@ -10,7 +10,7 @@
   tsc+文件名即 tsc Hello.ts 无提示信息编译出.js即成功
 
 ---------------------------------------------虚幻配置puer环境每个项目需要一次---------------------------------------------
-1、官网GitHub拉取puerts项目  https://github.com/Tencent/puerts.git           可参考官方文档
+1、官网GitHub拉取puerts项目  https://github.com/Tencent/puerts.git           可参考官方文档https://puerts.github.io/docs/puerts/unreal/install
 2、解压拷贝puerts/unreal下的Puerts目录到您项目的Plugins目录下
 3、下载V8,并解压，参考官方文档
     将解压文件夹放入    项目名/Plugins/Puerts/ThirdParty目录下
