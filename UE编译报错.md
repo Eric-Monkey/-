@@ -1,4 +1,4 @@
-### C4668 
+## C4668 
 **UE版本**  4.27.2 </br>
 **VS版本**  2022 </br>
 **发现日期**: 2024.6.27</br>
@@ -19,7 +19,7 @@ bEnableUndefinedIdentifierWarnings = false;
 ![](https://github.com/Eric-Monkey/memo/blob/main/Imgs/Example.png) </br>
 
 
-### C4834
+## C4834
 **UE版本** 4,27.2</br>
 **VS版本** 2022</br>
 **报错信息**:</br>
